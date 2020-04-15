@@ -26,17 +26,13 @@ p{
         list-style-type: none;
         color: white; 
         font-weight: bold;
-         font-size: 24px;
+        font-size: 24px;
     }
-
-
 
 
         li{
 
         }
-
-
 
             #Header{
                 width: 500px;
@@ -45,7 +41,7 @@ p{
                 margin-bottom: 10px;
                 border:solid 8px black;
                 text-align:center;
-                color:#FFBCOO;
+                color:#FFBC00;
            
 
             }
@@ -67,7 +63,6 @@ p{
     float: left;
     text-align:center;
     font-family:"Passion One";
-    font-color: 
 
 }
 
